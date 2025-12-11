@@ -117,8 +117,8 @@ O dashboard apresenta:
 ## 👨‍💻 Autor
 
 **[Renan Queiroz]**
-- LinkedIn: [[seu-linkedin](https://www.linkedin.com/in/renan-queiroz-datascience/)]
-- GitHub: [[seu-github](https://github.com/mine7ro)]
+- LinkedIn: [(https://www.linkedin.com/in/renan-queiroz-datascience/)]
+- GitHub: [(https://github.com/mine7ro)]
 - Email: renanpessoal2023@gmail.com
 
 ## 📝 Licença
