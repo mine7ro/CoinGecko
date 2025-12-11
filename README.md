@@ -91,7 +91,8 @@ O dashboard apresenta:
 - ✅ Evolução temporal dos preços
 - ✅ Distribuição de market share
 
-[Adicione aqui prints do dashboard]
+<img width="1366" height="768" alt="dashboard_crypto" src="https://github.com/user-attachments/assets/c6ed551b-fa3c-42e7-9d83-4e634dcf0c65" />
+
 
 ## 🏗️ Arquitetura de Dados
 
